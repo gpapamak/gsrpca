@@ -1,0 +1,16 @@
+# specific files
+.DS_store
+
+# text editor's temporary files
+*~
+
+# compiled binaries
+*.o
+*.mex*
+
+# data files
+*.mat
+
+# exclude the yale B dataset
+!data/yaleb10.mat
+
