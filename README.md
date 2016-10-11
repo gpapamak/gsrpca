@@ -20,4 +20,7 @@ In order to use GSRPCA with generalized norms, i.e. with parameters p and q othe
 **NOTE:**
 You need to set variable ```MATINC``` in ```makefile``` to point to your MATLAB include folder. This is the folder where files ```mex.h``` and ```matrix.h``` are. These files are needed as headers for ```shrinkage_p.cpp``` and therefore the compiler needs to know where they are during compile time.
 
+## Data files
+
+The demo uses part of the Extended Yale B dataset of face images. The data is in the ```data``` folder. The full dataset is freely available [[here]](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html).
 
