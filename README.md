@@ -22,5 +22,5 @@ You need to set variable ```MATINC``` in ```makefile``` to point to your MATLAB 
 
 ## Data files
 
-The demo uses part of the Extended Yale B dataset of face images. The data is in the ```data``` folder. The full dataset is freely available [[here]](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html).
+The demo uses part of the Extended Yale B dataset of face images. The data is in the ```data``` folder. The full dataset is freely available [here](http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html).
 
