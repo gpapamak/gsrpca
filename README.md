@@ -3,7 +3,7 @@
 Implementation and demo of the GSRPCA algorithm from the paper:
 
 > G. Papamakarios, Y. Panagakis, and S. Zafeiriou. _Generalised Scalable Robust Principal Component Analysis_. Proceedings of the British Machine Vision Conference. 2014.
-> [[pdf]](http://www.bmva.org/bmvc/2014/files/paper113.pdf) [[bibtex]](http://homepages.inf.ed.ac.uk/s1459647/bibtex/gsrpca.bib)
+> [[pdf]](http://www.bmva.org/bmvc/2014/files/paper113.pdf) [[bibtex]](https://gpapamak.github.io/bibtex/gsrpca.bib)
 
 ## How to get started
 
